@@ -1,6 +1,7 @@
 def using_include(array, element)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   element1 = "wow"
+  element2 = "authenticate_or_request_with_http_digest"
   array.include?(element1)
 end
 
